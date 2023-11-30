@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
+    <color name="black">#000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="test_level_color">#0984e3</color>
+    <color name="easy_level_color">#00b894</color>
+    <color name="normal_level_color">#fdcb6e</color>
+    <color name="hard_level_color">#d63031</color>
+    <color name="purple_background">#6c5ce7</color>
+    <color name="grey_background">#636E72</color>
+    <color name="pink_background">#E84393</color>
+
+
 </resources>
