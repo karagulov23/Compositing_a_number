@@ -5,7 +5,7 @@
 ## :camera: Screenshots
 
 
-| :---: | :---: |
+
 | ![Google Pixel 4 XL Screenshot 0](https://github.com/karagulov23/Compositing_a_number/assets/62842649/c9185f63-7a85-4f78-a8e7-58f67308f9e8) |
 | ![Google Pixel 4 XL Screenshot 1](https://github.com/karagulov23/Compositing_a_number/assets/62842649/9298e972-661c-43bf-b79a-cf83b236a6ed) |
 | ![Google Pixel 4 XL Screenshot 2](https://github.com/karagulov23/Compositing_a_number/assets/62842649/04750d49-7b30-46db-b55b-a6512a0ce9ee) |
